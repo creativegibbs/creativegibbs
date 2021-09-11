@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @creativegibbs
+- 👋 Hi, I’m @CreativeDevy
 - 👀 I’m interested in IT Font end and Back end Dev
 - 🌱 I’m currently learning HTML CSS Javascript
 - 💞️ I’m looking to collaborate on Front and Back end, Desgin , UX/UI
